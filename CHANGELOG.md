@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Qeteshpony/LED-Bar-Controller/compare/v1.0.0...v1.0.1) (2023-07-25)
+
+
+### Bug Fixes
+
+* replace too small vias ([ae0ffce](https://github.com/Qeteshpony/LED-Bar-Controller/commit/ae0ffce0f52476345e111085fe67b47356b5a48a))
+
 ## 1.0.0 (2023-07-25)
 
 
