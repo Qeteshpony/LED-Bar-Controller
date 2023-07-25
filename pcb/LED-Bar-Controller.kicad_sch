@@ -1196,17 +1196,28 @@
     (uuid fccb47d3-607e-49c7-b174-62df0ed9ba82)
   )
 
+  (no_connect (at 72.39 96.52) (uuid 0b901b4f-87e0-483f-8553-65b49329d663))
+  (no_connect (at 72.39 99.06) (uuid 1131ee4e-ba18-49a4-92cc-d27f682a413c))
+  (no_connect (at 72.39 93.98) (uuid 20e9d10d-709a-413d-971a-cbee4378ce48))
+  (no_connect (at 72.39 63.5) (uuid 233aee41-069e-4bd5-ad1d-5f1885417abc))
+  (no_connect (at 72.39 101.6) (uuid 2878be38-db87-4643-a739-005966c29a7e))
   (no_connect (at 72.39 66.04) (uuid 36029627-39b0-466a-9b98-c5f7a823ea75))
+  (no_connect (at 72.39 71.12) (uuid 4f5c15f3-46c9-40f9-8bd5-77d632bab39e))
   (no_connect (at 41.91 83.82) (uuid 5e1e9e46-ba57-40a9-bf86-f90057d06bbb))
   (no_connect (at 41.91 78.74) (uuid 6167e5a5-ef5b-4395-bc36-165ff9c7ae8e))
+  (no_connect (at 72.39 68.58) (uuid 626c0aeb-b225-4a1d-b452-2d01684827b9))
   (no_connect (at 72.39 55.88) (uuid 79402154-d56a-45cd-89e3-d27e7b72a981))
+  (no_connect (at 72.39 86.36) (uuid 8162bbdf-0150-47fc-a8fa-1828661bfa67))
   (no_connect (at 41.91 50.8) (uuid 838eb384-5531-44d1-a98c-4a05990bc24a))
   (no_connect (at 72.39 53.34) (uuid 847d2119-cd31-42fd-9b0f-ba62ea005849))
+  (no_connect (at 72.39 60.96) (uuid 87c48885-c8c8-4422-8f23-0768dba03506))
   (no_connect (at 41.91 86.36) (uuid 9213c06a-eed1-4a18-88d9-5b2eb133f3b4))
+  (no_connect (at 72.39 91.44) (uuid 956d6a52-d472-4c85-a81f-b5bdfc93dd10))
   (no_connect (at 41.91 48.26) (uuid a2aa7834-6472-45cd-806e-077024ea0357))
   (no_connect (at 72.39 58.42) (uuid b11b377c-03bb-4757-9c47-c3b3d09b685a))
   (no_connect (at 41.91 76.2) (uuid b3d4db80-78d6-4267-985f-7b987c43a398))
   (no_connect (at 41.91 73.66) (uuid c6ca6e18-484c-4ad0-bc88-ad54654567c1))
+  (no_connect (at 72.39 88.9) (uuid cf850b09-8c0a-4b8e-b10b-8bc3c57dfe03))
   (no_connect (at 41.91 81.28) (uuid ff6a3b9f-b65c-4930-832e-876af2ae7e06))
 
   (wire (pts (xy 156.21 50.8) (xy 156.21 53.34))
@@ -1570,7 +1581,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0311a240-3457-4d33-bcc7-50b425d29d58)
   )
-  (label "PWM_WW" (at 72.39 73.66 0) (fields_autoplaced)
+  (label "PWM_WW" (at 72.39 76.2 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 052a8d2e-5402-4a4f-bcda-8e14cb42f022)
   )
@@ -1594,7 +1605,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 26a4e004-11ec-45fb-8f32-4997c4a87ab0)
   )
-  (label "Gww" (at 163.83 102.87 0) (fields_autoplaced)
+  (label "Gww" (at 123.19 102.87 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 29ff9b28-08f5-4a16-b81a-bfe023930a69)
   )
@@ -1610,7 +1621,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 680e8470-41e4-4153-9438-867d935c6adf)
   )
-  (label "WW" (at 176.53 95.25 180) (fields_autoplaced)
+  (label "WW" (at 176.53 92.71 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 80055e4c-e8f3-47d5-9471-ad52f9fa2569)
   )
@@ -1626,7 +1637,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bae30742-0e54-434a-b5e5-b7686f0ec30e)
   )
-  (label "PWM_CW" (at 113.03 102.87 180) (fields_autoplaced)
+  (label "PWM_CW" (at 153.67 102.87 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c0223d42-eea5-41fd-90ee-48a4351b8479)
   )
@@ -1634,11 +1645,11 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid cd2bb253-96ba-49c9-9b60-c341e97c47c6)
   )
-  (label "CW" (at 176.53 92.71 180) (fields_autoplaced)
+  (label "CW" (at 176.53 95.25 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d16ac532-b14b-4e77-9f3b-89c5583c51ae)
   )
-  (label "PWM_WW" (at 153.67 102.87 180) (fields_autoplaced)
+  (label "PWM_WW" (at 113.03 102.87 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d8f0491a-5731-4421-9593-16c7b4fcd84d)
   )
@@ -1650,11 +1661,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dd515642-c910-45da-be9f-dcf778a20406)
   )
-  (label "Gcw" (at 123.19 102.87 0) (fields_autoplaced)
+  (label "Gcw" (at 163.83 102.87 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ef77f1c2-5779-41df-a1bf-4e17188ac86c)
   )
-  (label "PWM_CW" (at 72.39 76.2 0) (fields_autoplaced)
+  (label "PWM_CW" (at 72.39 73.66 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f8a3864d-1df9-444f-81e6-5cf4c9440af0)
   )
@@ -1706,9 +1717,9 @@
     (property "LCSC" "C20917" (at 130.81 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8cc1d7dc-7314-4041-ac78-82ed0066a8f6))
-    (pin "2" (uuid 79837c7f-eea0-4048-9a13-5b8e248c2b2e))
-    (pin "3" (uuid a2d66357-65da-45fa-aa47-d3e3f83bfc77))
+    (pin "1" (uuid a1655b86-14cc-4324-a5d2-c99e2bc426cd))
+    (pin "2" (uuid 377c6f9f-9b63-45c8-b6fd-73b5217e7d9d))
+    (pin "3" (uuid d16b8e4c-6fcb-439d-80e5-38d889363a10))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -1903,7 +1914,7 @@
     (property "Datasheet" "" (at 133.35 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a414d0c0-db31-4a91-a3bb-cef6cc13b369))
+    (pin "1" (uuid f01042ff-d794-45bd-ace6-721ba6e81108))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -1985,9 +1996,9 @@
     (property "LCSC" "C20917" (at 171.45 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bd63429-ded7-40a9-8f13-ca83bac5f9b5))
-    (pin "2" (uuid d57ad3e2-4187-47a4-a7a4-aa6c4749f43e))
-    (pin "3" (uuid ce6d9dab-b3d0-4012-bb80-7baa14999159))
+    (pin "1" (uuid 220902f4-8ebe-4f63-b958-32add8455da8))
+    (pin "2" (uuid d6094d15-7c7a-4206-8698-95c093f617f8))
+    (pin "3" (uuid 3f14eeb5-a97e-446d-b1ac-81a8fc97de3d))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -2316,8 +2327,8 @@
     (property "LCSC" "C25076" (at 161.29 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c668a3e8-b585-461a-9abd-6186016d6837))
-    (pin "2" (uuid b8be222d-12fa-4255-bd3d-cab6c0c5f9fa))
+    (pin "1" (uuid 7a7cb2c0-5c61-46f5-9684-00f1e9b00727))
+    (pin "2" (uuid c2ca78b1-921c-448a-b94d-0e671ed7197d))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -2636,8 +2647,8 @@
     (property "LCSC" "C25741" (at 115.57 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d8b03549-0613-4c22-b905-2d8ee554c301))
-    (pin "2" (uuid 8fac778e-4a32-4701-b153-dd62a63bd7ef))
+    (pin "1" (uuid 13b4513e-adaf-432c-b838-8eadd9554d1a))
+    (pin "2" (uuid fc00c272-0867-4ab6-a65d-5caefb4727bb))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -3092,7 +3103,7 @@
     (property "Datasheet" "" (at 173.99 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 652f02fb-9d1c-4439-b27b-ea8781ca188e))
+    (pin "1" (uuid db13590d-7e51-4a34-b3f2-8d54a35629e2))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -3149,8 +3160,8 @@
     (property "LCSC" "C25741" (at 156.21 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 72809377-1c09-43e5-af12-3337c4d2e2af))
-    (pin "2" (uuid 0c221def-367c-40b1-981f-a82d0c72eb8c))
+    (pin "1" (uuid 06b14633-d858-4470-afbd-b5bdbc08fafe))
+    (pin "2" (uuid a6140966-637c-4899-8fbe-aa6a8dd1b249))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
@@ -3203,8 +3214,8 @@
     (property "LCSC" "C25076" (at 120.65 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c537d068-e157-4746-bcd9-6adbf1dd2478))
-    (pin "2" (uuid 65c8844b-c3c0-4b9c-a7a6-13e6e849ddac))
+    (pin "1" (uuid 4f1abcdf-2234-4ab3-b05e-053715504845))
+    (pin "2" (uuid 418da10b-de25-427f-a837-9a916345d68a))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
