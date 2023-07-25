@@ -1144,14 +1144,11 @@
     )
   )
 
-  (junction (at 133.35 113.03) (diameter 0) (color 0 0 0 0)
+  (junction (at 138.43 123.19) (diameter 0) (color 0 0 0 0)
     (uuid 05e4796a-1d79-4033-a758-50eba967cb97)
   )
   (junction (at 30.48 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 06ed7b7d-5fd8-41e7-87c0-8cb24541ca77)
-  )
-  (junction (at 105.41 142.24) (diameter 0) (color 0 0 0 0)
-    (uuid 0a4953db-6545-4b4a-9d5b-e78468e83fc2)
   )
   (junction (at 85.09 142.24) (diameter 0) (color 0 0 0 0)
     (uuid 176aba49-df52-428b-959c-97a815f78de7)
@@ -1159,7 +1156,10 @@
   (junction (at 120.65 50.8) (diameter 0) (color 0 0 0 0)
     (uuid 26d013ec-871f-41f4-a675-e85a93d4fe07)
   )
-  (junction (at 115.57 102.87) (diameter 0) (color 0 0 0 0)
+  (junction (at 105.41 142.24) (diameter 0) (color 0 0 0 0)
+    (uuid 326979ef-e916-4743-8bfa-528657b57cc4)
+  )
+  (junction (at 120.65 113.03) (diameter 0) (color 0 0 0 0)
     (uuid 47cf06ba-bdce-47fd-82be-10c9ab8f1efd)
   )
   (junction (at 57.15 35.56) (diameter 0) (color 0 0 0 0)
@@ -1168,7 +1168,7 @@
   (junction (at 95.25 152.4) (diameter 0) (color 0 0 0 0)
     (uuid 7cfa5f69-f0ad-4f05-8e65-4a2c9abf121d)
   )
-  (junction (at 156.21 102.87) (diameter 0) (color 0 0 0 0)
+  (junction (at 161.29 113.03) (diameter 0) (color 0 0 0 0)
     (uuid 7fcda01c-a966-424a-896f-6eaf97b0bc9e)
   )
   (junction (at 173.99 50.8) (diameter 0) (color 0 0 0 0)
@@ -1180,7 +1180,7 @@
   (junction (at 74.93 142.24) (diameter 0) (color 0 0 0 0)
     (uuid b2a3f59a-6700-4735-94ca-5630d6627c34)
   )
-  (junction (at 173.99 113.03) (diameter 0) (color 0 0 0 0)
+  (junction (at 179.07 123.19) (diameter 0) (color 0 0 0 0)
     (uuid cf3adba2-858f-4c31-9e24-527c2b2297ae)
   )
   (junction (at 156.21 50.8) (diameter 0) (color 0 0 0 0)
@@ -1222,7 +1222,7 @@
     (stroke (width 0) (type default))
     (uuid 0ba0b5a2-c747-4647-beb8-21df00cc3b73)
   )
-  (wire (pts (xy 156.21 110.49) (xy 156.21 113.03))
+  (wire (pts (xy 161.29 120.65) (xy 161.29 123.19))
     (stroke (width 0) (type default))
     (uuid 0e9c52e9-e6a9-4563-ab5d-255634c9a98e)
   )
@@ -1234,7 +1234,7 @@
     (stroke (width 0) (type default))
     (uuid 13b1ea95-7de8-4b03-8df6-d8115aeb26ba)
   )
-  (wire (pts (xy 156.21 102.87) (xy 158.75 102.87))
+  (wire (pts (xy 161.29 113.03) (xy 163.83 113.03))
     (stroke (width 0) (type default))
     (uuid 1c461bc1-78c6-49a4-bfb7-09d0d3740a5a)
   )
@@ -1242,7 +1242,7 @@
     (stroke (width 0) (type default))
     (uuid 1c5a47b8-5c65-4a5d-8328-8c6d4efc5e95)
   )
-  (wire (pts (xy 173.99 87.63) (xy 173.99 90.17))
+  (wire (pts (xy 179.07 97.79) (xy 179.07 100.33))
     (stroke (width 0) (type default))
     (uuid 1fba53f1-7447-4740-b969-ef01544951ed)
   )
@@ -1250,11 +1250,11 @@
     (stroke (width 0) (type default))
     (uuid 21a6b614-271e-4efa-a019-fb326507407d)
   )
-  (wire (pts (xy 156.21 113.03) (xy 173.99 113.03))
+  (wire (pts (xy 161.29 123.19) (xy 179.07 123.19))
     (stroke (width 0) (type default))
     (uuid 2c32c5d4-665e-49a4-aa86-70e4a8182c49)
   )
-  (wire (pts (xy 156.21 105.41) (xy 156.21 102.87))
+  (wire (pts (xy 161.29 115.57) (xy 161.29 113.03))
     (stroke (width 0) (type default))
     (uuid 2e0f4cd7-f200-4941-9c63-69a77976522b)
   )
@@ -1342,11 +1342,11 @@
     (stroke (width 0) (type default))
     (uuid 6069d38e-1f0e-496e-a4a9-7417469eb4ea)
   )
-  (wire (pts (xy 176.53 95.25) (xy 173.99 95.25))
+  (wire (pts (xy 181.61 105.41) (xy 179.07 105.41))
     (stroke (width 0) (type default))
     (uuid 63032c78-1568-4524-8097-04a2f9143aac)
   )
-  (wire (pts (xy 115.57 102.87) (xy 118.11 102.87))
+  (wire (pts (xy 120.65 113.03) (xy 123.19 113.03))
     (stroke (width 0) (type default))
     (uuid 66f3b8fe-0f7a-4702-8b29-801d94b3b48d)
   )
@@ -1362,7 +1362,7 @@
     (stroke (width 0) (type default))
     (uuid 71ca8ffb-568a-4f6a-8df9-0af931043b38)
   )
-  (wire (pts (xy 115.57 110.49) (xy 115.57 113.03))
+  (wire (pts (xy 120.65 120.65) (xy 120.65 123.19))
     (stroke (width 0) (type default))
     (uuid 7232be87-fd35-4c1b-af1e-e46a40c63179)
   )
@@ -1370,7 +1370,7 @@
     (stroke (width 0) (type default))
     (uuid 73b04c87-1008-4c80-a936-6aec8e0fb143)
   )
-  (wire (pts (xy 115.57 113.03) (xy 133.35 113.03))
+  (wire (pts (xy 120.65 123.19) (xy 138.43 123.19))
     (stroke (width 0) (type default))
     (uuid 7a88f24c-606b-4dc2-9919-97f59a49518c)
   )
@@ -1406,17 +1406,21 @@
     (stroke (width 0) (type default))
     (uuid ae0e00fa-5d18-4536-ad83-b4635a12ad52)
   )
-  (wire (pts (xy 115.57 105.41) (xy 115.57 102.87))
+  (wire (pts (xy 120.65 115.57) (xy 120.65 113.03))
     (stroke (width 0) (type default))
     (uuid b1670f06-6df7-4edb-8752-5b407ec8235a)
   )
-  (wire (pts (xy 163.83 102.87) (xy 166.37 102.87))
+  (wire (pts (xy 168.91 113.03) (xy 171.45 113.03))
     (stroke (width 0) (type default))
     (uuid b208dd08-897f-4f01-b717-2ac0556803d2)
   )
-  (wire (pts (xy 173.99 113.03) (xy 173.99 115.57))
+  (wire (pts (xy 179.07 123.19) (xy 179.07 125.73))
     (stroke (width 0) (type default))
     (uuid b2b9db41-6092-4289-b0b1-99471bebe137)
+  )
+  (wire (pts (xy 102.87 142.24) (xy 105.41 142.24))
+    (stroke (width 0) (type default))
+    (uuid b36559c9-c4bb-481a-b780-e348a5875571)
   )
   (wire (pts (xy 41.91 43.18) (xy 30.48 43.18))
     (stroke (width 0) (type default))
@@ -1430,7 +1434,7 @@
     (stroke (width 0) (type default))
     (uuid bebeca35-bb37-4f29-bc1d-0472970d1a83)
   )
-  (wire (pts (xy 176.53 92.71) (xy 133.35 92.71))
+  (wire (pts (xy 181.61 102.87) (xy 138.43 102.87))
     (stroke (width 0) (type default))
     (uuid c149f15e-aae4-4d7b-82ae-7f6770054924)
   )
@@ -1446,7 +1450,7 @@
     (stroke (width 0) (type default))
     (uuid c4c8b0ea-4210-4178-96ef-9e1711bda90e)
   )
-  (wire (pts (xy 123.19 102.87) (xy 125.73 102.87))
+  (wire (pts (xy 128.27 113.03) (xy 130.81 113.03))
     (stroke (width 0) (type default))
     (uuid c76a4184-5971-4d79-b1b8-8d1acb3a6895)
   )
@@ -1474,7 +1478,7 @@
     (stroke (width 0) (type default))
     (uuid cea5077b-1478-4ac1-aac9-153c169d3a39)
   )
-  (wire (pts (xy 173.99 107.95) (xy 173.99 113.03))
+  (wire (pts (xy 179.07 118.11) (xy 179.07 123.19))
     (stroke (width 0) (type default))
     (uuid d466b374-5a22-4312-bae2-e3b26379d3c6)
   )
@@ -1486,7 +1490,7 @@
     (stroke (width 0) (type default))
     (uuid d85657bb-8b1e-4760-885c-8ab92e09e675)
   )
-  (wire (pts (xy 113.03 102.87) (xy 115.57 102.87))
+  (wire (pts (xy 118.11 113.03) (xy 120.65 113.03))
     (stroke (width 0) (type default))
     (uuid d8f4bebd-ce48-4f41-8469-0147d274b517)
   )
@@ -1506,23 +1510,23 @@
     (stroke (width 0) (type default))
     (uuid da1de4da-8cd3-414a-b95c-92d4b415551a)
   )
-  (wire (pts (xy 153.67 102.87) (xy 156.21 102.87))
+  (wire (pts (xy 158.75 113.03) (xy 161.29 113.03))
     (stroke (width 0) (type default))
     (uuid dbe9865d-eac7-4e7d-ab44-9177eba3ee89)
   )
-  (wire (pts (xy 173.99 90.17) (xy 176.53 90.17))
+  (wire (pts (xy 179.07 100.33) (xy 181.61 100.33))
     (stroke (width 0) (type default))
     (uuid e4e951cf-8125-4dfd-a375-91e3e39067c5)
   )
-  (wire (pts (xy 133.35 92.71) (xy 133.35 97.79))
+  (wire (pts (xy 138.43 102.87) (xy 138.43 107.95))
     (stroke (width 0) (type default))
     (uuid e50f1064-3745-424a-990f-217681b86d8f)
   )
-  (wire (pts (xy 173.99 95.25) (xy 173.99 97.79))
+  (wire (pts (xy 179.07 105.41) (xy 179.07 107.95))
     (stroke (width 0) (type default))
     (uuid e51307fd-fe28-4c04-baab-b93391af171b)
   )
-  (wire (pts (xy 133.35 113.03) (xy 133.35 115.57))
+  (wire (pts (xy 138.43 123.19) (xy 138.43 125.73))
     (stroke (width 0) (type default))
     (uuid e610b7e0-d3c8-4015-b0d6-480cfc356829)
   )
@@ -1530,17 +1534,13 @@
     (stroke (width 0) (type default))
     (uuid e98ff3e7-283c-48cd-808b-5f2f85076ad6)
   )
-  (wire (pts (xy 133.35 107.95) (xy 133.35 113.03))
+  (wire (pts (xy 138.43 118.11) (xy 138.43 123.19))
     (stroke (width 0) (type default))
     (uuid ea082987-1935-4170-a340-c511057c949f)
   )
   (wire (pts (xy 138.43 63.5) (xy 138.43 67.31))
     (stroke (width 0) (type default))
     (uuid eb9dc346-7f61-4f0c-a34e-2df6a9d8cbb4)
-  )
-  (wire (pts (xy 105.41 142.24) (xy 102.87 142.24))
-    (stroke (width 0) (type default))
-    (uuid f0540b0e-01ec-4562-b5a1-c8bebd7bb907)
   )
   (wire (pts (xy 173.99 40.64) (xy 173.99 43.18))
     (stroke (width 0) (type default))
@@ -1583,7 +1583,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 26a4e004-11ec-45fb-8f32-4997c4a87ab0)
   )
-  (label "Gww" (at 123.19 102.87 0) (fields_autoplaced)
+  (label "Gww" (at 128.27 113.03 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 29ff9b28-08f5-4a16-b81a-bfe023930a69)
   )
@@ -1599,7 +1599,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 680e8470-41e4-4153-9438-867d935c6adf)
   )
-  (label "WW" (at 176.53 92.71 180) (fields_autoplaced)
+  (label "WW" (at 181.61 102.87 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 80055e4c-e8f3-47d5-9471-ad52f9fa2569)
   )
@@ -1615,7 +1615,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bae30742-0e54-434a-b5e5-b7686f0ec30e)
   )
-  (label "PWM_CW" (at 153.67 102.87 180) (fields_autoplaced)
+  (label "PWM_CW" (at 158.75 113.03 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c0223d42-eea5-41fd-90ee-48a4351b8479)
   )
@@ -1623,11 +1623,11 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid cd2bb253-96ba-49c9-9b60-c341e97c47c6)
   )
-  (label "CW" (at 176.53 95.25 180) (fields_autoplaced)
+  (label "CW" (at 181.61 105.41 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d16ac532-b14b-4e77-9f3b-89c5583c51ae)
   )
-  (label "PWM_WW" (at 113.03 102.87 180) (fields_autoplaced)
+  (label "PWM_WW" (at 118.11 113.03 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d8f0491a-5731-4421-9593-16c7b4fcd84d)
   )
@@ -1639,7 +1639,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dd515642-c910-45da-be9f-dcf778a20406)
   )
-  (label "Gcw" (at 163.83 102.87 0) (fields_autoplaced)
+  (label "Gcw" (at 168.91 113.03 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ef77f1c2-5779-41df-a1bf-4e17188ac86c)
   )
@@ -1677,22 +1677,22 @@
     )
   )
 
-  (symbol (lib_id "Transistor_FET:AO3400A") (at 171.45 102.87 0) (unit 1)
+  (symbol (lib_id "Transistor_FET:AO3400A") (at 176.53 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 140cf725-4bc1-42ca-bce7-48903b1cce9f)
-    (property "Reference" "Q1" (at 176.657 101.846 0)
+    (property "Reference" "Q2" (at 181.737 112.006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "AO3400A" (at 176.657 103.894 0)
+    (property "Value" "AO3400A" (at 181.737 114.054 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 176.53 104.775 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 181.61 114.935 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" (at 171.45 102.87 0)
+    (property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" (at 176.53 113.03 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "C20917" (at 171.45 102.87 0)
+    (property "LCSC" "C20917" (at 176.53 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a1655b86-14cc-4324-a5d2-c99e2bc426cd))
@@ -1701,7 +1701,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "Q1") (unit 1)
+          (reference "Q2") (unit 1)
         )
       )
     )
@@ -1710,7 +1710,7 @@
   (symbol (lib_id "power:GND") (at 57.15 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 14405a2f-ea25-420d-bc9c-eb50a1895cae)
-    (property "Reference" "#PWR015" (at 57.15 173.99 0)
+    (property "Reference" "#PWR010" (at 57.15 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 57.15 171.585 0)
@@ -1726,7 +1726,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -1764,7 +1764,7 @@
   (symbol (lib_id "Device:R_Small") (at 82.55 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d1ff5e5-caf8-4b71-bc2e-a6a5d7e7df1a)
-    (property "Reference" "R9" (at 84.0486 161.536 0)
+    (property "Reference" "R3" (at 84.0486 161.536 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5k1" (at 84.0486 163.584 0)
@@ -1784,7 +1784,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R9") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -1793,7 +1793,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 85.09 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d4f6d0c-2312-493b-83e8-a427d06b227e)
-    (property "Reference" "C2" (at 82.9311 145.7499 0)
+    (property "Reference" "C4" (at 82.9311 145.7499 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100u" (at 82.9311 147.7979 0)
@@ -1813,7 +1813,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "C2") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -1822,7 +1822,7 @@
   (symbol (lib_id "Device:R_Small") (at 120.65 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d70edca-76b3-41b2-a694-c978a7a38e3e)
-    (property "Reference" "R7" (at 119.1514 44.696 0)
+    (property "Reference" "R4" (at 119.1514 44.696 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 119.1514 46.744 0)
@@ -1842,7 +1842,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R7") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -1851,7 +1851,7 @@
   (symbol (lib_id "Device:C_Small") (at 52.07 35.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 20b3be8e-2579-4eb2-ac55-861ea6ebdb45)
-    (property "Reference" "C4" (at 52.0763 30.4179 90)
+    (property "Reference" "C3" (at 52.0763 30.4179 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 52.0763 32.4659 90)
@@ -1871,32 +1871,32 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "C4") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 173.99 115.57 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 179.07 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25e459be-744b-469e-b859-64565cd5ce01)
-    (property "Reference" "#PWR01" (at 173.99 121.92 0)
+    (property "Reference" "#PWR029" (at 179.07 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 173.99 119.515 0)
+    (property "Value" "GND" (at 179.07 129.675 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 173.99 115.57 0)
+    (property "Footprint" "" (at 179.07 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 173.99 115.57 0)
+    (property "Datasheet" "" (at 179.07 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f01042ff-d794-45bd-ace6-721ba6e81108))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -1905,7 +1905,7 @@
   (symbol (lib_id "power:+3V3") (at 173.99 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 296f09f7-bd46-4c59-8df5-fe513632e395)
-    (property "Reference" "#PWR026" (at 173.99 44.45 0)
+    (property "Reference" "#PWR024" (at 173.99 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 173.99 36.695 0)
@@ -1921,7 +1921,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR026") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -1956,22 +1956,22 @@
     )
   )
 
-  (symbol (lib_id "Transistor_FET:AO3400A") (at 130.81 102.87 0) (unit 1)
+  (symbol (lib_id "Transistor_FET:AO3400A") (at 135.89 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fdfb841-9fee-470f-bd55-516876741050)
-    (property "Reference" "Q2" (at 136.017 101.846 0)
+    (property "Reference" "Q1" (at 141.097 112.006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "AO3400A" (at 136.017 103.894 0)
+    (property "Value" "AO3400A" (at 141.097 114.054 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 135.89 104.775 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 140.97 114.935 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" (at 130.81 102.87 0)
+    (property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" (at 135.89 113.03 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "C20917" (at 130.81 102.87 0)
+    (property "LCSC" "C20917" (at 135.89 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 220902f4-8ebe-4f63-b958-32add8455da8))
@@ -1980,7 +1980,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "Q2") (unit 1)
+          (reference "Q1") (unit 1)
         )
       )
     )
@@ -1989,7 +1989,7 @@
   (symbol (lib_id "Device:R_Small") (at 30.48 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40a6d490-fcb2-4748-8e46-6a8cf60fe2e2)
-    (property "Reference" "R10" (at 31.9786 35.806 0)
+    (property "Reference" "R1" (at 31.9786 35.806 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 31.9786 37.854 0)
@@ -2009,7 +2009,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R10") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2018,7 +2018,7 @@
   (symbol (lib_id "Device:C_Small") (at 52.07 27.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 489c5028-a906-41b7-be23-56ad83240c4f)
-    (property "Reference" "C5" (at 52.0763 22.7979 90)
+    (property "Reference" "C2" (at 52.0763 22.7979 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10u" (at 52.0763 24.8459 90)
@@ -2038,7 +2038,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "C5") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -2047,7 +2047,7 @@
   (symbol (lib_id "power:GND") (at -21.59 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4af3f0cf-6652-47e4-9649-a86febc95044)
-    (property "Reference" "#PWR029" (at -21.59 189.23 0)
+    (property "Reference" "#PWR01" (at -21.59 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at -21.59 186.825 0)
@@ -2063,7 +2063,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -2072,7 +2072,7 @@
   (symbol (lib_id "power:GND") (at 156.21 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4b8aa0d9-4530-48c9-b10f-7a4d2f5b28b2)
-    (property "Reference" "#PWR09" (at 156.21 73.66 0)
+    (property "Reference" "#PWR023" (at 156.21 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 156.21 71.255 0)
@@ -2088,7 +2088,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -2097,7 +2097,7 @@
   (symbol (lib_id "power:VBUS") (at -11.43 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4cdd786c-2e03-478f-8992-68028ed01e5a)
-    (property "Reference" "#PWR028" (at -11.43 186.69 0)
+    (property "Reference" "#PWR02" (at -11.43 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at -11.43 178.935 0)
@@ -2113,7 +2113,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -2151,7 +2151,7 @@
   (symbol (lib_id "power:GND") (at 76.2 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 521ad123-c1ed-4767-8571-a875a172a401)
-    (property "Reference" "#PWR014" (at 76.2 173.99 0)
+    (property "Reference" "#PWR012" (at 76.2 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 76.2 171.585 0)
@@ -2167,7 +2167,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -2205,7 +2205,7 @@
   (symbol (lib_id "Device:R_Small") (at 173.99 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5835388d-4392-4483-b408-6e6455008f34)
-    (property "Reference" "R12" (at 172.4914 44.696 0)
+    (property "Reference" "R7" (at 172.4914 44.696 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 172.4914 46.744 0)
@@ -2225,7 +2225,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R12") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -2234,7 +2234,7 @@
   (symbol (lib_id "power:VBUS") (at 74.93 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59447848-72b0-4ed7-815e-df8a9620eca2)
-    (property "Reference" "#PWR012" (at 74.93 143.51 0)
+    (property "Reference" "#PWR011" (at 74.93 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at 74.93 135.755 0)
@@ -2250,7 +2250,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -2259,7 +2259,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 93.98 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c0f78ad-1eb4-42d2-a18b-78c02cdb9061)
-    (property "Reference" "J3" (at 96.012 48.506 0)
+    (property "Reference" "J2" (at 96.012 48.506 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Serial" (at 96.012 50.554 0)
@@ -2281,28 +2281,28 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "J3") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 120.65 102.87 90) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 125.73 113.03 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6013b64b-1ff1-4fb6-b2d4-f516d882e208)
-    (property "Reference" "R3" (at 120.65 98.5534 90)
+    (property "Reference" "R10" (at 125.73 108.7134 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100R" (at 120.65 100.6014 90)
+    (property "Value" "100R" (at 125.73 110.7614 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 120.65 102.87 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 125.73 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 120.65 102.87 0)
+    (property "Datasheet" "~" (at 125.73 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C25076" (at 120.65 102.87 0)
+    (property "LCSC" "C25076" (at 125.73 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7a7cb2c0-5c61-46f5-9684-00f1e9b00727))
@@ -2310,7 +2310,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R3") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -2319,7 +2319,7 @@
   (symbol (lib_id "power:GND") (at 120.65 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63e3350c-cd31-44aa-a803-c4b7dffd2833)
-    (property "Reference" "#PWR010" (at 120.65 73.66 0)
+    (property "Reference" "#PWR019" (at 120.65 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.65 71.255 0)
@@ -2335,7 +2335,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -2410,7 +2410,7 @@
   (symbol (lib_id "power:+3V3") (at 30.48 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 66ad8d81-bc6b-4499-9aa5-d6d216c34a9d)
-    (property "Reference" "#PWR022" (at 30.48 35.56 0)
+    (property "Reference" "#PWR03" (at 30.48 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 30.48 27.805 0)
@@ -2426,7 +2426,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -2460,7 +2460,7 @@
   (symbol (lib_id "power:+3V3") (at 86.36 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7390e3b2-8d06-4ea8-9a9a-e2c2a291f31e)
-    (property "Reference" "#PWR023" (at 86.36 46.99 0)
+    (property "Reference" "#PWR014" (at 86.36 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 86.36 39.235 0)
@@ -2476,7 +2476,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -2485,7 +2485,7 @@
   (symbol (lib_id "power:GND") (at 138.43 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8121afb3-7a9a-4436-b2b9-7e7d32368aac)
-    (property "Reference" "#PWR08" (at 138.43 73.66 0)
+    (property "Reference" "#PWR021" (at 138.43 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 138.43 71.255 0)
@@ -2501,7 +2501,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -2510,7 +2510,7 @@
   (symbol (lib_id "power:GND") (at 173.99 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82214a3a-cb7a-47d3-8b44-1c6d8357bea3)
-    (property "Reference" "#PWR027" (at 173.99 73.66 0)
+    (property "Reference" "#PWR025" (at 173.99 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 173.99 71.255 0)
@@ -2526,32 +2526,32 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:VBUS") (at 173.99 87.63 0) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 179.07 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82472fb8-3fb1-4070-a0dc-507ee0a3f6ce)
-    (property "Reference" "#PWR04" (at 173.99 91.44 0)
+    (property "Reference" "#PWR028" (at 179.07 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VBUS" (at 173.99 83.685 0)
+    (property "Value" "VBUS" (at 179.07 93.845 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 173.99 87.63 0)
+    (property "Footprint" "" (at 179.07 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 173.99 87.63 0)
+    (property "Datasheet" "" (at 179.07 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c6ee4f90-d71d-4504-a6c4-12ad8f1dd899))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -2560,7 +2560,7 @@
   (symbol (lib_id "power:GND") (at 49.53 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 829038b3-1c3e-4148-a914-77a39e75e31b)
-    (property "Reference" "#PWR016" (at 49.53 173.99 0)
+    (property "Reference" "#PWR07" (at 49.53 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 49.53 171.585 0)
@@ -2576,7 +2576,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -2607,22 +2607,22 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 156.21 107.95 0) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 161.29 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8fcf28a5-94e9-4f37-9b98-d579e8f04bb0)
-    (property "Reference" "R2" (at 157.7086 106.926 0)
+    (property "Reference" "R11" (at 162.7886 117.086 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (at 157.7086 108.974 0)
+    (property "Value" "100k" (at 162.7886 119.134 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 156.21 107.95 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 156.21 107.95 0)
+    (property "Datasheet" "~" (at 161.29 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C25741" (at 156.21 107.95 0)
+    (property "LCSC" "C25741" (at 161.29 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 13b4513e-adaf-432c-b838-8eadd9554d1a))
@@ -2630,7 +2630,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R2") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -2668,7 +2668,7 @@
   (symbol (lib_id "power:+3V3") (at 138.43 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a3089901-d414-46e0-b0c5-8ccfd3e29cbb)
-    (property "Reference" "#PWR05" (at 138.43 44.45 0)
+    (property "Reference" "#PWR020" (at 138.43 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 138.43 36.695 0)
@@ -2684,7 +2684,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -2693,7 +2693,7 @@
   (symbol (lib_id "Device:C_Small") (at 30.48 48.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a9bb95bf-9217-4151-b9ea-983389b77529)
-    (property "Reference" "C6" (at 32.8041 47.2296 0)
+    (property "Reference" "C1" (at 32.8041 47.2296 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100n" (at 32.8041 49.2776 0)
@@ -2713,7 +2713,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "C6") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -2722,7 +2722,7 @@
   (symbol (lib_id "power:GND") (at 86.36 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b4916876-9237-42a6-8045-c895d1bd2328)
-    (property "Reference" "#PWR024" (at 86.36 62.23 0)
+    (property "Reference" "#PWR015" (at 86.36 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 86.36 59.825 0)
@@ -2738,7 +2738,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -2747,7 +2747,7 @@
   (symbol (lib_id "power:GND") (at 57.15 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8841ff1-311d-42fc-8897-d482d594ae04)
-    (property "Reference" "#PWR017" (at 57.15 115.57 0)
+    (property "Reference" "#PWR09" (at 57.15 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 57.15 113.165 0)
@@ -2763,7 +2763,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -2772,7 +2772,7 @@
   (symbol (lib_id "power:+3V3") (at 105.41 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba0567cf-c27b-4b87-8cfb-ca8e1a89261a)
-    (property "Reference" "#PWR011" (at 105.41 143.51 0)
+    (property "Reference" "#PWR017" (at 105.41 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 105.41 135.755 0)
@@ -2788,7 +2788,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -2797,7 +2797,7 @@
   (symbol (lib_id "power:+3V3") (at 120.65 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bc490df0-7352-49e5-88cf-ff32a5c889a5)
-    (property "Reference" "#PWR07" (at 120.65 44.45 0)
+    (property "Reference" "#PWR018" (at 120.65 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 120.65 36.695 0)
@@ -2813,7 +2813,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -2906,7 +2906,7 @@
   (symbol (lib_id "Device:R_Small") (at 185.42 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd8cfdeb-6608-4090-aefd-40ebc843a35b)
-    (property "Reference" "R11" (at 186.9186 44.696 0)
+    (property "Reference" "R8" (at 186.9186 44.696 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "680R" (at 186.9186 46.744 0)
@@ -2926,7 +2926,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R11") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -2935,7 +2935,7 @@
   (symbol (lib_id "power:GND") (at 46.99 27.94 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d2b3ee5c-e0ae-4425-a45d-507802ed51a5)
-    (property "Reference" "#PWR020" (at 40.64 27.94 0)
+    (property "Reference" "#PWR05" (at 40.64 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 43.8151 27.94 90)
@@ -2951,7 +2951,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -2960,7 +2960,7 @@
   (symbol (lib_id "power:+3V3") (at 57.15 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6d2d137-92e1-4d2c-8958-92d8dd969fcb)
-    (property "Reference" "#PWR018" (at 57.15 29.21 0)
+    (property "Reference" "#PWR08" (at 57.15 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 57.15 21.455 0)
@@ -2976,28 +2976,28 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 181.61 92.71 0) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 186.69 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da790a09-c90b-49fa-b9d7-37026c5bd62c)
-    (property "Reference" "J1" (at 183.642 91.686 0)
+    (property "Reference" "J3" (at 188.722 101.846 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x03" (at 183.642 93.734 0)
+    (property "Value" "Conn_01x03" (at 188.722 103.894 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal" (at 181.61 92.71 0)
+    (property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal" (at 186.69 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 181.61 92.71 0)
+    (property "Datasheet" "~" (at 186.69 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 181.61 92.71 0)
+    (property "LCSC" "" (at 186.69 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 34112417-2253-47fe-84c3-bc7b381d6b5b))
@@ -3006,7 +3006,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "J1") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -3015,7 +3015,7 @@
   (symbol (lib_id "power:GND") (at 185.42 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de0b7fa6-039e-46af-b9f7-e74134f44a41)
-    (property "Reference" "#PWR025" (at 185.42 73.66 0)
+    (property "Reference" "#PWR026" (at 185.42 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 185.42 71.255 0)
@@ -3031,32 +3031,32 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 133.35 115.57 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 138.43 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid df14b0f8-d9aa-468d-974a-695f9988a889)
-    (property "Reference" "#PWR02" (at 133.35 121.92 0)
+    (property "Reference" "#PWR027" (at 138.43 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 133.35 119.515 0)
+    (property "Value" "GND" (at 138.43 129.675 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 133.35 115.57 0)
+    (property "Footprint" "" (at 138.43 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 133.35 115.57 0)
+    (property "Datasheet" "" (at 138.43 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid db13590d-7e51-4a34-b3f2-8d54a35629e2))
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -3065,7 +3065,7 @@
   (symbol (lib_id "Device:R_Small") (at 76.2 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5932813-7674-437c-bdb9-a0f58da06bfb)
-    (property "Reference" "R8" (at 77.6986 161.536 0)
+    (property "Reference" "R2" (at 77.6986 161.536 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5k1" (at 77.6986 163.584 0)
@@ -3085,28 +3085,28 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R8") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 115.57 107.95 0) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 120.65 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e75ea7de-666b-4cc9-888a-f9793f0e3430)
-    (property "Reference" "R4" (at 117.0686 106.926 0)
+    (property "Reference" "R9" (at 122.1486 117.086 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (at 117.0686 108.974 0)
+    (property "Value" "100k" (at 122.1486 119.134 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 115.57 107.95 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 120.65 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 115.57 107.95 0)
+    (property "Datasheet" "~" (at 120.65 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C25741" (at 115.57 107.95 0)
+    (property "LCSC" "C25741" (at 120.65 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 06b14633-d858-4470-afbd-b5bdbc08fafe))
@@ -3114,7 +3114,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R4") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -3123,7 +3123,7 @@
   (symbol (lib_id "power:+3V3") (at 156.21 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec268ce3-3fbd-405a-9a53-0cea06ef2179)
-    (property "Reference" "#PWR06" (at 156.21 44.45 0)
+    (property "Reference" "#PWR022" (at 156.21 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 156.21 36.695 0)
@@ -3139,28 +3139,28 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 161.29 102.87 90) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 166.37 113.03 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eecd94fd-39d2-47cf-8423-d4944f6a5f68)
-    (property "Reference" "R1" (at 161.29 98.5534 90)
+    (property "Reference" "R12" (at 166.37 108.7134 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100R" (at 161.29 100.6014 90)
+    (property "Value" "100R" (at 166.37 110.7614 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 102.87 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 166.37 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 102.87 0)
+    (property "Datasheet" "~" (at 166.37 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C25076" (at 161.29 102.87 0)
+    (property "LCSC" "C25076" (at 166.37 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4f1abcdf-2234-4ab3-b05e-053715504845))
@@ -3168,7 +3168,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "R1") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -3177,7 +3177,7 @@
   (symbol (lib_id "power:GND") (at 46.99 35.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid efa914e7-decf-4dae-897a-f5348c54c705)
-    (property "Reference" "#PWR019" (at 40.64 35.56 0)
+    (property "Reference" "#PWR06" (at 40.64 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 43.8151 35.56 90)
@@ -3193,7 +3193,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -3202,7 +3202,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle_PowerOnly_6P") (at 57.15 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0a022fb-e0d1-42ea-bab8-cb5cd364d3b9)
-    (property "Reference" "J2" (at 57.15 133.58 0)
+    (property "Reference" "J1" (at 57.15 133.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB_C" (at 57.15 135.628 0)
@@ -3227,7 +3227,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -3236,7 +3236,7 @@
   (symbol (lib_id "power:GND") (at 30.48 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5b5a2f3-1e6d-4aef-95d1-f8270d43f7e6)
-    (property "Reference" "#PWR021" (at 30.48 59.69 0)
+    (property "Reference" "#PWR04" (at 30.48 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 30.48 57.285 0)
@@ -3252,7 +3252,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -3261,7 +3261,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 105.41 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f7114395-6d33-46a2-8df8-c90421d197ca)
-    (property "Reference" "C1" (at 107.569 145.7499 0)
+    (property "Reference" "C5" (at 107.569 145.7499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100u" (at 107.569 147.7979 0)
@@ -3281,7 +3281,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "C1") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -3290,7 +3290,7 @@
   (symbol (lib_id "power:GND") (at 95.25 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9add1e5-51a4-4f3e-a275-948dabad4dc0)
-    (property "Reference" "#PWR03" (at 95.25 161.29 0)
+    (property "Reference" "#PWR016" (at 95.25 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 95.25 158.885 0)
@@ -3306,7 +3306,7 @@
     (instances
       (project "LED-Bar-Controller"
         (path "/e1f5b69f-b7f3-4854-9aa2-5378c614bb0b"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
